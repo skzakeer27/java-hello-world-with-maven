@@ -23,13 +23,15 @@
                <version>2.2</version>
            </dependency>
        </dependencies>
-       <!-- end::joda[] -->
-       
+    
     <dependency>
     <groupId>javax.servlet</groupId>
     <artifactId>javax.servlet-api</artifactId>
     <version>3.0.1</version>
 	</dependency>
+	
+	<!-- end::joda[] -->
+   
 
 
     <build>
